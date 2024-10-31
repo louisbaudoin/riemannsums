@@ -1,3 +1,3 @@
 # riemannsums
 
-In this project we'll explore the riemann sum s
+In this project we'll explore the riemann sum s deadeda
